@@ -1,0 +1,29 @@
+# .gitignore file
+
+# Ignore .env file (for sensitive environment variables like API keys)
+.env
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore data files (if you don't want to push them to GitHub)
+data/
+
+# Ignore log files
+*.log
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files (e.g., VS Code, PyCharm, etc.)
+.vscode/
+.idea/
