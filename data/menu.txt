@@ -1,0 +1,6 @@
+Menu:
+1. Margherita Pizza - $12
+2. Pepperoni Pizza - $14
+3. Caesar Salad - $10
+4. Spaghetti Carbonara - $15
+5. Grilled Salmon - $18
